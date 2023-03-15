@@ -1,0 +1,6 @@
+name: Currency layer Proxy
+type: module
+description: This module create ability to use currency layer service/api
+package: Custom
+core: 8.x
+core_version_requirement: ^8 || ^9

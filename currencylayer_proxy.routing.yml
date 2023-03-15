@@ -1,0 +1,7 @@
+currencylayer_proxy:
+  path: '/api/currency'
+  defaults:
+    _controller: '\Drupal\currencylayer_proxy\Controller\CurrencyController::content'
+    _title: 'Currencylayer Proxy'
+  requirements:
+    _access: 'TRUE'
